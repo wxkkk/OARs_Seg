@@ -10,7 +10,7 @@ thoracic organs segmentation using Keras
 * Use Keras to build a U-net model.<br>
 * Read the training set files in Google Drive<br>
 * Train the network and derive the model.<br>
-* The visulization of training process.<br>
+* The visualization of training process.<br>
 #### `model_evaluation.ipynb` contains the following functions:<br>
 * Load the model prediction validation set.<br>
 * Output the predicted masks.<br>
