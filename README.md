@@ -14,5 +14,6 @@ thoracic organs segmentation using Keras
 #### `model_evaluation.ipynb` contains the following functions:<br>
 * Load the model and predict the validation set images.<br>
 * Output the predicted masks.<br>
+* Output MIoU on validation set.<br>
 #### `Model_B` is one of the well-performing models trained by U-Net.
 #### `predicted_model_B.png` shows the prediction masks of Model B on the validation set
